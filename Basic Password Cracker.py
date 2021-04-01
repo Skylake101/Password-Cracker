@@ -1,3 +1,6 @@
+#This program can crack a password by attemtping every possible combination of letters
+#It would never work in the real world since real login pages have limited attempts and often captchas
+
 import random
 print("****************************************\n*** 		Breaking the Code	  ***\n****************************************\n")
 name = input("Enter your name: ") #Asks for the users name
