@@ -1,5 +1,5 @@
 #This program can crack a password by attemtping every possible combination of letters
-#It would never work in the real world since real login pages have limited attempts and often captchas
+#It obviously doesn't work in real login pages since they have limited attempts and often captchas
 
 import random
 print("****************************************\n*** 		Breaking the Code	  ***\n****************************************\n")
