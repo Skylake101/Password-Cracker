@@ -1,3 +1,4 @@
+#Author: Luke Carlson
 #This program can crack a password by attemtping every possible combination of letters
 #It obviously doesn't work in real login pages since they have limited attempts and often captchas
 
